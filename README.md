@@ -1,2 +1,2 @@
 # dzsait
-none
+логин admin, пароль admin00
